@@ -7,4 +7,6 @@ alert('master');
 alert('master1');
 alert('asda');
 alert('msad12');
+alert('asdasdcx');
+alert('asd');
 alert('asd');
