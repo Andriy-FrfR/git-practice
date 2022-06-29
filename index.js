@@ -3,3 +3,4 @@ alert(2);
 alert(3);
 alert(4);
 alert('newBranch');
+alert('master2');
