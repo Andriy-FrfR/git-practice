@@ -4,3 +4,4 @@ alert('new');
 alert('asdf');
 alert('new2');
 alert('master2');
+alert('asd');
